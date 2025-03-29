@@ -2,6 +2,7 @@
 
 Soy **ignorantcoffee666**, un estudiante apasionado de **informática** que está explorando el mundo del desarrollo web, la programación y la tecnología. 🚀
 
+- **Página web**: [ignorantcoffee666.github.io](https://ignorantcoffee666.github.io)
 
 
 ## 🛠️ Tecnologías que estoy aprendiendo
@@ -20,7 +21,6 @@ Soy **ignorantcoffee666**, un estudiante apasionado de **informática** que est�
 ## 📚 Sobre mí
 - 🎓 Actualmente estoy estudiando **informática**.
 - 🌱 Me encanta aprender sobre desarrollo web y diseño moderno.
-- **Página web**: [ignorantcoffee666.github.io](https://ignorantcoffee666.github.io)
 
 ---
 
