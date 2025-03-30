@@ -20,7 +20,6 @@ Soy **ignorantcoffee666**, un estudiante apasionado de **informática** que est�
 
 ## 📚 Sobre mí
 - 🎓 Actualmente estoy estudiando **informática**.
-- 🌱 Me encanta aprender sobre desarrollo web y diseño moderno.
 
 ---
 
