@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Bienvenido a mi perfil de GitHub
 
-Soy **ignorantcoffee666**, un estudiante apasionado de **informática**. 🚀
+Soy **Sluwh**, un estudiante. 
 
 - **Página web**: [ignorantcoffee666.github.io](https://ignorantcoffee666.github.io)
 
